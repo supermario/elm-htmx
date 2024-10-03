@@ -29,7 +29,7 @@ This is more or less the premise of HTMX – why did HTML stop at `<a>` and `<f
 
 I won't butcher the premise further, you can read [all their essays and memes](https://htmx.org/essays/) if that's of interest.
 
-The interesting part here is that `elm-pages` has a philosophy of [Use the Platform](https://elm-pages.com/docs/use-the-platform/), and HTMX has a philosophy of "what is the platform was more capable".
+The interesting part here is that `elm-pages` has a philosophy of [Use the Platform](https://elm-pages.com/docs/use-the-platform/), and HTMX has a philosophy of "what if the platform was more capable".
 
 
 ## Elm: how would we "use the platform" if it were more capable?
